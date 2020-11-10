@@ -11,6 +11,7 @@
 		9FF91D01255B1A11003CA28E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF91D00255B1A11003CA28E /* ContentView.swift */; };
 		9FF91D03255B1A11003CA28E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF91D02255B1A11003CA28E /* Assets.xcassets */; };
 		9FF91D06255B1A11003CA28E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF91D05255B1A11003CA28E /* Preview Assets.xcassets */; };
+		9FF91D0F255B1B78003CA28E /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF91D0E255B1B78003CA28E /* DataStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9FF91D02255B1A11003CA28E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FF91D05255B1A11003CA28E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9FF91D07255B1A11003CA28E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FF91D0E255B1B78003CA28E /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				9FF91CFE255B1A11003CA28E /* MakeADecisionApp.swift */,
 				9FF91D00255B1A11003CA28E /* ContentView.swift */,
+				9FF91D0E255B1B78003CA28E /* DataStore.swift */,
 				9FF91D02255B1A11003CA28E /* Assets.xcassets */,
 				9FF91D07255B1A11003CA28E /* Info.plist */,
 				9FF91D04255B1A11003CA28E /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FF91D01255B1A11003CA28E /* ContentView.swift in Sources */,
+				9FF91D0F255B1B78003CA28E /* DataStore.swift in Sources */,
 				9FF91CFF255B1A11003CA28E /* MakeADecisionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
